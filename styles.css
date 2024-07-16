@@ -40,7 +40,7 @@ header nav ul li a {
 
 .hero-section {
     background: url('hero.jpg') no-repeat center center/cover;
-    color: #fff;
+    color: #000000;
     height: 100vh;
     display: flex;
     flex-direction: column;
